@@ -1,0 +1,666 @@
+fileFormatVersion: 2
+guid: 99a229882e7b746fc814fb6f2bb239f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8134100754738545861
+    second: BASELVL23ICONS_0
+  - first:
+      213: -5668204042423827356
+    second: BASELVL23ICONS_1
+  - first:
+      213: -7880852441198826647
+    second: BASELVL23ICONS_2
+  - first:
+      213: 4230203148179506722
+    second: BASELVL23ICONS_3
+  - first:
+      213: -8515467104131035221
+    second: BASELVL23ICONS_4
+  - first:
+      213: -5936143484213542762
+    second: BASELVL23ICONS_5
+  - first:
+      213: 8444980973194032483
+    second: BASELVL23ICONS_6
+  - first:
+      213: -1698370831573053501
+    second: BASELVL23ICONS_7
+  - first:
+      213: 4665528997900456893
+    second: BASELVL23ICONS_8
+  - first:
+      213: -6038941510580296698
+    second: BASELVL23ICONS_9
+  - first:
+      213: 5335179227363303211
+    second: BASELVL23ICONS_0
+  - first:
+      213: 1154971279415574683
+    second: BASELVL23ICONS_1
+  - first:
+      213: 5360749151348855009
+    second: BASELVL23ICONS_2
+  - first:
+      213: -5029013236423740781
+    second: BASELVL23ICONS_3
+  - first:
+      213: -8672297463215265602
+    second: BASELVL23ICONS_4
+  - first:
+      213: 6006732180156217397
+    second: BASELVL23ICONS_5
+  - first:
+      213: -82592365970311577
+    second: BASELVL23ICONS_6
+  - first:
+      213: -4786908160787728914
+    second: BASELVL23ICONS_7
+  - first:
+      213: -227437117220845758
+    second: BASELVL23ICONS_8
+  - first:
+      213: 1225703946735878779
+    second: BASELVL23ICONS_9
+  - first:
+      213: -4714039094099298098
+    second: BASELVL23ICONS_10
+  - first:
+      213: 5287859147227848764
+    second: BASELVL23ICONS_11
+  - first:
+      213: -548291050440632643
+    second: BASELVL23ICONS_12
+  - first:
+      213: 1821348306674508198
+    second: BASELVL23ICONS_13
+  - first:
+      213: -3709780673063221170
+    second: BASELVL23ICONS_10
+  - first:
+      213: -6970582906441366196
+    second: BASELVL23ICONS_11
+  - first:
+      213: 7708563196039749405
+    second: BASELVL23ICONS_12
+  - first:
+      213: 1004658972273963792
+    second: BASELVL23ICONS_13
+  - first:
+      213: 3023228909211736145
+    second: BASELVL23ICONS_14
+  - first:
+      213: -6387601683106655440
+    second: BASELVL23ICONS_15
+  - first:
+      213: 475019950571259748
+    second: BASELVL23ICONS_16
+  - first:
+      213: 332110805813922123
+    second: BASELVL23ICONS_17
+  - first:
+      213: 763569084130190256
+    second: BASELVL23ICONS_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.2548899, y: 0.90992457}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 57, y: 908, z: 416, w: 22}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BASELVL23ICONS_0
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 929
+        width: 259
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f58048d3d5a0a40800000000000000
+      internalID: 5335179227363303211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BASELVL23ICONS_1
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 855
+        width: 214
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9008536248470010800000000000000
+      internalID: 1154971279415574683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BASELVL23ICONS_2
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 917
+        width: 259
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0102063f4356a40800000000000000
+      internalID: 5360749151348855009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BASELVL23ICONS_3
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 694
+        width: 180
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392b9383b1b553ab0800000000000000
+      internalID: -5029013236423740781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BASELVL23ICONS_4
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 689
+        width: 148
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8688ea76fc5a780800000000000000
+      internalID: -8672297463215265602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BASELVL23ICONS_5
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 526
+        width: 219
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5387e13c7133c5350800000000000000
+      internalID: 6006732180156217397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BASELVL23ICONS_6
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 719
+        width: 221
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7663e254ea29adef0800000000000000
+      internalID: -82592365970311577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BASELVL23ICONS_7
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 699
+        width: 98
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee534dfc36c719db0800000000000000
+      internalID: -4786908160787728914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BASELVL23ICONS_8
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 492
+        width: 112
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247005b952bf7dcf0800000000000000
+      internalID: -227437117220845758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BASELVL23ICONS_9
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 497
+        width: 128
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b728cf8de33920110800000000000000
+      internalID: 1225703946735878779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BASELVL23ICONS_10
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 529
+        width: 95
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4805731226348cc0800000000000000
+      internalID: -3709780673063221170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BASELVL23ICONS_11
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 213
+        width: 224
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45072047c3834f90800000000000000
+      internalID: -6970582906441366196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BASELVL23ICONS_12
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 329
+        width: 248
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f599492615afa60800000000000000
+      internalID: 7708563196039749405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BASELVL23ICONS_13
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 296
+        width: 232
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0137cca230441fd00800000000000000
+      internalID: 1004658972273963792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BASELVL23ICONS_14
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 297
+        width: 170
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158d148dcaaa4f920800000000000000
+      internalID: 3023228909211736145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BASELVL23ICONS_15
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 23
+        width: 153
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0339db7bc1eaa57a0800000000000000
+      internalID: -6387601683106655440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BASELVL23ICONS_16
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 60
+        width: 104
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4670607d02c979600800000000000000
+      internalID: 475019950571259748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BASELVL23ICONS_17
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 35
+        width: 257
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b498b9ea405eb9400800000000000000
+      internalID: 332110805813922123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BASELVL23ICONS_18
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 35
+        width: 232
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3ec05590eb89a00800000000000000
+      internalID: 763569084130190256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -325.04855, y: 369.32037}
+      - {x: -329.70874, y: 516.11646}
+      - {x: -26.796112, y: 516.11646}
+      - {x: -26.796112, y: 371.65045}
+    - - {x: -315.72818, y: 136.31067}
+      - {x: -315.72818, y: 332.03882}
+      - {x: -96.699036, y: 364.66022}
+      - {x: -54.757294, y: 136.31067}
+    - - {x: -257.47574, y: -59.41751}
+      - {x: -257.47574, y: 117.66986}
+      - {x: -103.68933, y: 117.66986}
+      - {x: -103.68933, y: -59.41751}
+    - - {x: -315.72818, y: -336.69907}
+      - {x: -315.72818, y: -78.05829}
+      - {x: -54.757294, y: -78.05829}
+      - {x: -54.757294, y: -336.69907}
+    - - {x: -271.45633, y: -530.09717}
+      - {x: -271.45633, y: -360.00006}
+      - {x: -92.03885, y: -360.00006}
+      - {x: -92.03885, y: -530.09717}
+    - - {x: 129.3204, y: -497.47577}
+      - {x: 129.3204, y: -278.44666}
+      - {x: 273.78644, y: -278.44666}
+      - {x: 273.78644, y: -497.47577}
+    - - {x: 47.767, y: -231.8447}
+      - {x: 47.767, y: -64.0777}
+      - {x: 327.37866, y: -64.0777}
+      - {x: 327.37866, y: -231.8447}
+    - - {x: 92.03885, y: -54.757324}
+      - {x: 92.03885, y: 110.679565}
+      - {x: 278.4466, y: 110.679565}
+      - {x: 278.4466, y: -54.757324}
+    - - {x: 96.699036, y: 138.64075}
+      - {x: 96.699036, y: 301.74756}
+      - {x: 271.4563, y: 301.74756}
+      - {x: 271.4563, y: 138.64075}
+    - - {x: 54.757294, y: 311.06793}
+      - {x: 54.757294, y: 499.8058}
+      - {x: 304.0777, y: 499.8058}
+      - {x: 304.0777, y: 311.06793}
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
