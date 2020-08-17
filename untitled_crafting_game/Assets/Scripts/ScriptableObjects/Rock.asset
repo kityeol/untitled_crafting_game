@@ -14,4 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Rock
   description: It's heavy and it beats scissors!
-  sprite: {fileID: 154829025414229556, guid: 2183f75904738814fb98ee9f080f4c20, type: 3}
+  sprite: {fileID: 21300000, guid: f887049f0464a1945aec3944067b7b32, type: 3}

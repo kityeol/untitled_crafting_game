@@ -14,4 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Fire
   description: What happens when you lose your job?
-  sprite: {fileID: 21300008, guid: 2183f75904738814fb98ee9f080f4c20, type: 3}
+  sprite: {fileID: 21300000, guid: 2f2579c533c1bf34f8f946765c9b6dd8, type: 3}
