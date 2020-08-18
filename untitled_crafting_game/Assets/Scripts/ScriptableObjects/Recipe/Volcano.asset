@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94c8c3553bf996847bc9c2a40e1d6127, type: 3}
+  m_Name: Volcano
+  m_EditorClassIdentifier: 
+  item1: {fileID: 11400000, guid: b272c5a4cbed10f43bff9955de7255f2, type: 2}
+  item2: {fileID: 11400000, guid: c8bbbd13137852d458563736f155a58d, type: 2}
+  result: {fileID: 11400000, guid: 02d6e57f385e50845baaa68ab50a75e8, type: 2}
